@@ -1,0 +1,37 @@
+{
+  "users": {
+    "62858156631709@s.whatsapp.net": {
+      "limit": 15,
+      "lastChat": 1691704594528,
+      "premium": true,
+      "VIP": true,
+      "name": "Saya Dika 2",
+      "banned": false
+    },
+    "6288292024190@s.whatsapp.net": {
+      "limit": 15,
+      "lastChat": 1691704675873,
+      "premium": true,
+      "VIP": true,
+      "name": "Saya Dika",
+      "banned": false
+    },
+    "6285640099407@s.whatsapp.net": {
+      "limit": 100,
+      "lastChat": 1693531532096,
+      "premium": true,
+      "VIP": true,
+      "name": "Bot Ehsan",
+      "banned": false
+    },
+    "6285795163587@s.whatsapp.net": {
+      "limit": 100,
+      "lastChat": 1693531551639,
+      "premium": true,
+      "VIP": true,
+      "name": "Ihsnnxy",
+      "banned": false
+    }
+  },
+  "groups": {}
+}
