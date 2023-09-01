@@ -89,7 +89,7 @@ export default async function Message(hisoka, m, chatUpdate) {
             }
             break
             case "sc": {
-                m.reply("https://github.com/DikaArdnt/Hisoka-Morou")
+                m.reply("https://github.com/IhsanNurohman/hisoka")
             }
             break
             case "ping": {
